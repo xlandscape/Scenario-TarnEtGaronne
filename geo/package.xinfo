@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<landscape_package
+    xmlns="urn:xBeeForageLandscapeScenarioPackageInfo"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:xBeeForageLandscapeScenarioPackageInfo ../../../model/variant/package.xsd"
+>
+  <meta>
+    <version>0.4</version>
+  </meta>
+  <base>
+    <base_landscape_geometries>Tarn_LULC_v04.shp</base_landscape_geometries>
+    <feature_id_attribute>id</feature_id_attribute>
+    <feature_type_attribute>L3</feature_type_attribute>
+    <additional_attributes/>
+  </base>
+  <supplementary/>
+  <supplementary_shapefiles/>
+</landscape_package>

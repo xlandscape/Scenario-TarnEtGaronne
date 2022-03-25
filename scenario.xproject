@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <Version>0.1</Version>
+  <SupportedRuntimeVersions>
+    <Version variant="xBeeForage" number="1.0" />
+  </SupportedRuntimeVersions>
+  <Description>
+    A circular landscape digitization in Tarn-et-Garonne (France) intended for bee forage modelling.
+  </Description>
+  <Changelog>
+    <Version number="1.0" date="2022-03-25">
+      <Addition author="sascha">Initial version of the scenario.</Addition>
+    </Version>
+  </Changelog>
+  <Contacts>
+    <Contact>Thorsten Schad - thorsten.schad@bayer.com</Contact>
+  </Contacts>
+  <Acknowledgements>
+    <Acknowledgement>The first scenario version packaged for xBeeForage was packaged by Sascha Bub.</Acknowledgement>
+  </Acknowledgements>
+  <Content>
+    <Item name="LandscapeScenario" target="geo/package.xinfo" version="0.4"/>
+  </Content>
+</Project>
