@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <Version>0.1</Version>
+  <Content>
+    <Item name="LandscapeScenario" target="geo/package.xinfo" version="0.4"/>
+  </Content>
+</Project>
