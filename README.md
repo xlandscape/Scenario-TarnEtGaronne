@@ -15,11 +15,11 @@
 ## About the project
 A circular landscape digitization in Tarn-et-Garonne (France) intended for bee forage modelling.
 This is an automatically generated documentation based on the available scenario metadata. The current version of this 
-document is from 2022-03-25.
+document is from 2026-02-12.
 
 ### Built with
 The scenario can be used in the following Landscape Models:
-* xBeeForage version 1.0 and higher
+* xPollinator version 0.1.4 and higher
 
 
 ## Getting Started
@@ -34,7 +34,7 @@ from the model parameterization. For details how to reference the scenario from 
 
 ## Usage
 The scenario adds the following macros to the Landscape Model:
-* `:LandscapeScenario` (version 0.4)
+* `:LandscapeScenario` (version 0.5)
 
 ### Roadmap
 The scenario is final and not further developed. It will be, however, updated to reflect new requirements by the 
