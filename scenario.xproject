@@ -5,9 +5,9 @@
   xsi:schemaLocation="urn:xLandscapeModelScenarioInfo ../../model/core/base/scenario.xsd"
 >
   <Name>TarnEtGaronne</Name>
-  <Version>0.1</Version>
+  <Version>1.1</Version>
   <SupportedRuntimeVersions>
-    <Version variant="xBeeForage" number="1.0"/>
+    <Version variant="xPollinator" number="0.1.4"/>
   </SupportedRuntimeVersions>
   <Description>
     A circular landscape digitization in Tarn-et-Garonne (France) intended for bee forage modelling.
@@ -17,6 +17,9 @@
     <ToDate>2099-12-31</ToDate>
   </TemporalExtent>
   <Changelog>
+    <Version number="1.1" date="2026-02-12">
+      <Change author="sascha">Updated geodata to version 0.5</Change>
+    </Version>
     <Version number="1.0" date="2022-03-25">
       <Addition author="sascha">Initial version of the scenario.</Addition>
     </Version>
